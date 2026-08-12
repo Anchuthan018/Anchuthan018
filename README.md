@@ -83,18 +83,6 @@ Multi-app platform (User, Provider, Admin) for real-time location-based service 
 
 ---
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Anchuthan018&show_icons=true&theme=tokyonight&hide_border=true" alt="Anchuthan's GitHub Stats" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Anchuthan018&theme=tokyonight&hide_border=true" alt="Anchuthan's GitHub Streak" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Anchuthan018&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165"/>
-</p>
-
----
 
 ### 📫 Let's Connect
 
